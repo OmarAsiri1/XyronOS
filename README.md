@@ -1,5 +1,7 @@
 # XyronOS
 
+> XyronOS is currently under development and is planned to be released on April 10.
+
 > An Arch-based Linux distribution for beginners, designed to adapt and replace all operating systems.
 
 ## Overview
