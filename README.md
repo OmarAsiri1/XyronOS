@@ -14,7 +14,7 @@ It is built to be a single system that adapts to different workflows, desktop pr
 
 XyronOS provides two distinct desktop experiences:
 
-### GNOME
+### KDE
 - Clean and stable
 - Beginner-friendly
 - Ideal for daily use and productivity
@@ -30,7 +30,7 @@ Users can choose the environment that best fits their workflow.
 
 - Arch Linux base  
 - Beginner-friendly defaults  
-- GNOME and Hyprland editions  
+- KDE and Hyprland editions  
 - Focus on usability, performance, and aesthetics  
 - High customization without complexity  
 - Scales from beginner to advanced usage  
